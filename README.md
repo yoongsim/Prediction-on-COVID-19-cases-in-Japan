@@ -1,6 +1,8 @@
 # Prediction-on-COVID-19-cases-in-Japan
 Prediction on the number of confirmed cases and death in Japan for the first quarter of 2023 using different univariate time series forecast models
 
+Dataset from [World Health Organization](https://data.who.int/dashboards/covid19/cases?m49=392&n=c)
+
 ## Time series forecast models used  
 - Error Trend and Seasonality (ETS)  
 - Trend and Seasonal components (TBATS)  
